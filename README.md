@@ -1,3 +1,5 @@
+Below is a summary from the plugins I use. Some are not included, but can easily be found because the plug name is their github rep.
+
 # vim-airline 
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/cb%40256bit.org)
