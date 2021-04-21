@@ -1,4 +1,4 @@
-Below is a summary from the plugins I use. Some are not included, but can easily be found because the plug name is their github rep.
+Below is a summary from the plugins I use. Some are not included, but can easily be found because the plug name is their github repo.
 
 # vim-airline 
 
